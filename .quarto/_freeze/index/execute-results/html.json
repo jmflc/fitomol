@@ -1,0 +1,15 @@
+{
+  "hash": "013ccfd43b5b16d281a8f50c771c6e7f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Bem-vindo ao Laboratório de Fitopatologia Molecular - FITOMOL\"\n---\n\n::: {layout-ncol=1 style=\"text-align: center;\"}\n![](Fotos/fitomol.jpeg){width=\"300px\"}\n:::\n\n***\n\n### Sobre o Laboratório\nO **Laboratório de [Sua Área]** dedica-se à pesquisa de excelência em fitopatologia, focando especialmente em [descreva brevemente sua missão principal]. \n\nAqui no nosso site, você pode conhecer nossa [equipe](equipe.qmd), explorar nossas [linhas de pesquisa](pesquisas.qmd) e conferir nossas [publicações](publicacoes.qmd) mais recentes.\n\n### Nossos Objetivos\n*   Desenvolvimento de novas tecnologias para o campo.\n*   Formação de pesquisadores de alto nível.\n*   Colaboração científica internacional.\n\n**\n\n### Apoio e Colaboração\n\n::: {layout-ncol=4 layout-valign=\"center\"}\n![](Fotos/fapemig.png){width=\"120px\"}\n\n![](Fotos/epamig.png){width=\"120px\"}\n\n![](Fotos/cnpq.png){width=\"120px\"}\n\n![](Fotos/capes.png){width=\"120px\"}\n:::\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
