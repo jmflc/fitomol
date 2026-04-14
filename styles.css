@@ -1,0 +1,21 @@
+css
+/* Remove qualquer limite de altura da logo */
+.navbar-brand-logo img, 
+.navbar-brand-logo, 
+.navbar-logo {
+  height: 60px !important;  /* Ajuste este valor para o tamanho desejado */
+  max-height: none !important; 
+  width: auto !important;
+}
+
+/* Ajusta o container para não cortar a imagem */
+.navbar-brand {
+  height: auto !important;
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+
+/* Centraliza os itens do menu com a nova altura da barra */
+.navbar-nav {
+  align-items: center;
+}

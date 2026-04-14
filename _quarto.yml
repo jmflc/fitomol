@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  navbar:
+    logo: "Fotos/fitomol2.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: equipe.qmd
+        text: Equipe
+      - href: publicacoes.qmd
+        text: Publicações
+      - href: resinario.qmd
+        text: Resinário
+      - href: colecao.qmd
+        text: Coleção
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
