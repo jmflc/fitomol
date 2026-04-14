@@ -93,13 +93,13 @@ td:first-child {
 ::: {layout-ncol="1"}
 |  |  |
 |:-----------------------------:|:----------------------------------------|
-| ![](Fotos/Laura.jpeg){width="120px"} | **Alícia Maciel Rezende** <br> *Estagiária* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/4187486387735531) |
+| ![](Fotos/Alicia.jpeg){width="120px"} | **Alícia Maciel Rezende** <br> *Estagiária* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/4187486387735531) |
 :::
 
 ::: {layout-ncol="1"}
 |  |  |
 |:-----------------------------:|:----------------------------------------|
-| ![](Fotos/Laura.jpeg){width="120px"} | **Júlia Ferreira Campos Lopes** <br> *Estagiária* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/3305499644316012) |
+| ![](Fotos/Julia.jpeg){width="120px"} | **Júlia Ferreira Campos Lopes** <br> *Estagiária* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/3305499644316012) |
 :::
 
 ::: {layout-ncol="1"}
