@@ -1,4 +1,8 @@
 
+---
+pagetitle: "Equipe"
+---
+
 ```{=html}
 <style>
 /* Remove bordas e alinha tudo à esquerda */
