@@ -93,6 +93,12 @@ td:first-child {
 ::: {layout-ncol="1"}
 |  |  |
 |:-----------------------------:|:----------------------------------------|
+| ![](Fotos/Laura.jpeg){width="120px"} | **Júlia Ferreira Campos Lopes** <br> *Estagiária* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/3305499644316012) |
+:::
+
+::: {layout-ncol="1"}
+|  |  |
+|:-----------------------------:|:----------------------------------------|
 | ![](Fotos/Laura.jpeg){width="120px"} | **Laura Simões Silva de Sales** <br> *Ex-Bolsista* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/3901482259711554) |
 :::
 
@@ -100,6 +106,12 @@ td:first-child {
 |  |  |
 |:-----------------------------:|:----------------------------------------|
 | ![](Fotos/Lorena.jpeg){width="120px"} | **Lorena Eduarda Ribeiro Silva** <br> *Estagiária* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/0630523200556023) |
+:::
+
+::: {layout-ncol="1"}
+|  |  |
+|:-----------------------------:|:----------------------------------------|
+| ![](Fotos/Ludmila.jpeg){width="120px"} | **Ludmilla Pereira Diniz Rezende** <br> *Bolsista* <br> Projeto: Análise de dados fitopatológicos. <br> [Lattes](http://lattes.cnpq.br/1580428395124886) |
 :::
 
 ::: {layout-ncol="1"}
